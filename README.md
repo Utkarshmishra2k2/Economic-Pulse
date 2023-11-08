@@ -2,6 +2,8 @@
 
 World Economic Pulse dashboard offer's a set of tools and resources that provide an overview of the economic performance and key indicators of a specific region, country, or the global economy. These dashboards are designed to help policymakers, businesses, investors, and the general public monitor and understand economic trends and data.
 
+Check Out DashBoard(https://966788834aeb4cea847e67e6fefc1575.app.posit.cloud/p/cf39d2f6/) 
+
 Here are some specimen of dashboard:
 
 
